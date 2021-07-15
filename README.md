@@ -3,6 +3,7 @@ The 90's were the golden years for Turkish pop music. 90's Turkish pop songs are
 
 Please feel free to contribute and create a pull request.
 
+*  [Ajda Pekkan - Yaz Yaz Yaz](https://www.youtube.com/watch?v=gAzMCgdby8g)  
 *  [Ali Güven -  Yolcu](https://www.youtube.com/watch?v=p8tMDeftW7k)  
 *  [Athena - Holigan](https://www.youtube.com/watch?v=birgqdzUAQE)  
 *  [Athena - Senden, Benden, Bizden](https://www.youtube.com/watch?v=Cjj5AXuGOpI)  
