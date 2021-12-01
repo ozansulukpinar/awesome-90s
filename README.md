@@ -7,6 +7,8 @@ Please feel free to contribute and create a pull request.
 *  [Ali Güven -  Yolcu](https://www.youtube.com/watch?v=p8tMDeftW7k)  
 *  [Athena - Holigan](https://www.youtube.com/watch?v=birgqdzUAQE)  
 *  [Athena - Senden, Benden, Bizden](https://www.youtube.com/watch?v=Cjj5AXuGOpI)  
+*  [Athena - Skalonga](https://www.youtube.com/watch?v=ghlgBC7H35U)  
+*  [Athena - Tarlaya Ektim Soğan](https://www.youtube.com/watch?v=9a4PPLii8Ug)  
 *  [Atilla Taş - Ham Çökelek](https://www.youtube.com/watch?v=3muaPrKOFN8)  
 *  [Atilla Taş - Kırmızılım](https://www.youtube.com/watch?v=-G8Qm_DgRBc)  
 *  [Ayna - Ceylan](https://www.youtube.com/watch?v=VX_fBmUNrVE)  
