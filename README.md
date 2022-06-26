@@ -99,6 +99,7 @@ Please feel free to contribute and create a pull request.
 *  [Serdar Ortaç - Bilsem Ki](https://www.youtube.com/watch?v=9K0GKe7uhk0)  
 *  [Serdar Ortaç – Karabiberim](https://www.youtube.com/watch?v=Cg16C85FyEQ)  
 *  [Serdar Ortaç - Yar Diye Diye](https://www.youtube.com/watch?v=lCF4h8bX9_4)  
+*  [Sertab Erener - Aldırma Deli Gönlüm](https://www.youtube.com/watch?v=c3SGgWR2XkE)  
 *  [Sertab Erener - Mecbursun](https://www.youtube.com/watch?v=ObETvJFGsmA)  
 *  [Sertab Erener - Sakin Ol](https://www.youtube.com/watch?v=sR1xhlWA5cE)  
 *  [Sertab Erener - Yanarım](https://www.youtube.com/watch?v=qM63FjuY1ac)  
