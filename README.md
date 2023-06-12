@@ -112,6 +112,7 @@ Please feel free to contribute and create a pull request.
 *  [Sertab Erener - Sakin Ol](https://www.youtube.com/watch?v=sR1xhlWA5cE)  
 *  [Sertab Erener - Yanarım](https://www.youtube.com/watch?v=qM63FjuY1ac)  
 *  [Sertab Erener - Zor Kadın](https://www.youtube.com/watch?v=kQMWd7oyFlo)  
+*  [Seyyal Taner - Şiirimin Dili](https://www.youtube.com/watch?v=wIQHqDiLGR0)  
 *  [Sezen Aksu - Hadi Bakalım](https://www.youtube.com/watch?v=KSlOGG5Ohgg)  
 *  [Sezen Aksu - Kaçın Kurası](https://www.youtube.com/watch?v=352QSI4nsQk)  
 *  [Sezen Aksu - Onu Alma Beni Al](https://www.youtube.com/watch?v=XTNWD9FeZ20)  
