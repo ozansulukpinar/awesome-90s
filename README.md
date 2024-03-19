@@ -2,6 +2,8 @@
 
 The 90's were the golden years for Turkish pop music. 90's Turkish pop songs are have still listening today. So, I am collecting the best ones of them on this list.
 
+Here is the playlist that contains songs on this list: [Spotify](https://open.spotify.com/playlist/0zDPdEpBYAWk4LhhFcAwy9?si=3fc1b69e69b644f0)
+
 Please feel free to contribute and create a pull request.
 
 - Ahmet Akkaya - Ah Canım Vah Canım [[YouTube](https://www.youtube.com/watch?v=a8pAKr_zbOM) | [Spotify](https://open.spotify.com/intl-tr/track/3Q9pJks1FeNOMayGExQo34)]
@@ -84,7 +86,7 @@ Please feel free to contribute and create a pull request.
 - Levent Yüksel - Med Cezir [[YouTube](https://www.youtube.com/watch?v=69VJnj9k3N4) | [Spotify](https://open.spotify.com/intl-tr/track/1Pd3EASeP8JwbySp3cjN1H)]
 - Levent Yüksel - Zalim [[YouTube](https://www.youtube.com/watch?v=wt2vV7vAnkA) | [Spotify](https://open.spotify.com/intl-tr/track/0L2HglGOcc6MScTCIcbmhb)]
 - Mahsun Kırmızıgül - Sevdalıyım [[YouTube](https://www.youtube.com/watch?v=Bz_mS83QhXE) | [Spotify](https://open.spotify.com/intl-tr/track/6Ao95JxFm6mbRVo2FOkIvr)]
-- Mert Ekren - Alo Orda Mısın [[YouTube](https://www.youtube.com/watch?v=yHL_a9f-Hqc) | [Spotify]()]
+- Mert Ekren - Alo Orda Mısın [[YouTube](https://www.youtube.com/watch?v=yHL_a9f-Hqc) | [Spotify](https://open.spotify.com/intl-tr/track/5YW8m4hHZLpHMwfZAMNZGn)]
 - MFÖ - Ali Desidero [[YouTube](https://www.youtube.com/watch?v=E4xrmuqfzBc) | [Spotify](https://open.spotify.com/intl-tr/track/3QYBnMvh7xNd6ECUDQgczW)]
 - MFÖ - Mazeretim Var Asabiyim Ben [[YouTube](https://www.youtube.com/watch?v=ANM3g3ukNtE) | [Spotify](https://open.spotify.com/intl-tr/track/5Ku52IUpK9kNRuzWBMYIaS)]
 - MFÖ - Mecburen [[YouTube](https://www.youtube.com/watch?v=nr5ex_94vp0) | [Spotify](https://open.spotify.com/intl-tr/track/6wqarga28xP6wK7Q9znGO7)]
